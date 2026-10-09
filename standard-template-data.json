@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-09-10T07:38:58.177539098Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-10-09T07:40:55.407966828Z",
     "templateType": "trip_d",
     "propertyId": "fb1175f4-91af-4583-9712-0be51f4c3503",
     "homepageId": "48e65bd6-19d8-479f-b067-95d5340c8139"
@@ -29,6 +29,9 @@
     "domain": "ega77.kr",
     "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/1405670",
     "ybsId": "76759",
+    "tripPropertyId": "8286",
+    "partnerType": "distributor_a",
+    "tripProviderName": "트립일레븐",
     "amenities": [
       "흡연구역(지정장소)",
       "주차장"
@@ -1445,6 +1448,35 @@
                 "description": ""
               },
               "enabled": true
+            }
+          ]
+        },
+        "landing": {
+          "sections": [
+            {
+              "enabled": false,
+              "hero": {
+                "images": [ ]
+              },
+              "about": [
+                {
+                  "blockId": "sample-card-1",
+                  "propertyId": "sample-property-1",
+                  "propertyName": "현재 숙소",
+                  "title": "",
+                  "images": [ ],
+                  "order": 1
+                },
+                {
+                  "blockId": "sample-card-2",
+                  "propertyId": "sample-property-2",
+                  "propertyName": "연결 숙소 2",
+                  "domain": "http://localhost:8000/t-template-D",
+                  "title": "",
+                  "images": [ ],
+                  "order": 2
+                }
+              ]
             }
           ]
         }
