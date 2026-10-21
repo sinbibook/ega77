@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-10-09T07:40:55.407966828Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-10-21T07:51:22.561928579Z",
     "templateType": "trip_d",
     "propertyId": "fb1175f4-91af-4583-9712-0be51f4c3503",
     "homepageId": "48e65bd6-19d8-479f-b067-95d5340c8139"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n※ 20시 이후 입실 시 사전 문의",
-    "usageGuide": "[공지사항]\n- 인원 추가 시 입실 전 미리 말씀 주셔야 비품/침구 세팅 가능합니다.\n- 객실 내 해산물, 고기, 튀김류 조리는 삼가주시기 바랍니다.\n- 전 객실 실내 금연이며, 촛불, 폭죽, 부탄가스 사용은 금지입니다.(전기그릴 반입 금지)\n- A,B호 독채로 10인까지 이용 가능(동시 예약 필수).\n- 애완견 동반 입실 불가(당일 환불 없이 퇴실 조치).\n- 예약 인원 외 방문객은 출입을 삼가해주세요.\n- 천재지변 및 개인사유로 취소 및 날짜 변경 불가(날짜 변경도 수수료 부과).\n- 이용 규칙 위반으로 발생하는 사고는 민형사적인 책임을 지지 않습니다.\n- 당일 예약/늦은 입실 시 이용 불가할 수 있으니 펜션 측에 문의 후 구매해 주십시오.\n- 현장 인원 추가 시 비품 및 침구 제공이 어려울 수 있습니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n※ 20시 이후 입실 시 사전 문의\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 유아(24개월 미만): 무료이나 인원에는 포함\n\n[공용바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 숯불\n- 이용 요금: 2~4인 기준 30,000원 (1박기준/현장결제)\n- 이용 시간: 15:00~20:00\n- 신청 시간: 15:00~18:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n\n[개별바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 숯불\n- 이용 요금: 2~4인 기준 30,000원 (1박기준/현장결제)\n- 이용 시간: 15:00~20:00\n- 신청 시간: 15:00~18:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n\n[공용수영장]\n- 운영 기간:  4월 15일 ~ 10월31일\n- 이용 시간: 입실 후~21:00\n- 이용 요금: 무료\n- 수영장 크기: 3m x 14 m x 80cm\n- 이용 복장: 수영복, 래쉬가드\n※ 수영장 계단 이동시 미끄러움 주의\n※ 다이빙금지 \n※ 음주 후 입수금지\n※ 오전수영은 수질관리 및 청소시간으로 이용불가\n\n[스파]\n[자쿠지]\n- 이용 객실: 전객실\n- 이용 요금: 무료\n- 크기: 1.6m x 1.2m x 55cm\n- 운영 기간: 2026.3.15 ~\n- 이용 시간: ~21:00\n※ 5월~10월 입실후~22:00/ 4월,11월 입실후~21:00\n- 수용 인원: 2~4명\n※ 입욕제 사용 불가\n※ 이용 시 미끄러움 주의\n\n[불멍]\n- 이용 요금: 1회 30,000원 (1박기준/현장결제)\n- 이용 시간: 입실후~22:00\n- 이용 장소: 개별장소\n※ 불멍 이용시 오로라가루 무료제공\n\n[편의 및 주변 시설]\n- 엘레베이터 미보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 와이파이 보유\n- 넷플릭스 이용 가능\n※ 개인 계정 사용 필요\n\n[주차장]\n- 주차장 보유\n- 전기차 충전기 이용 가능\n※ 산외면 면사무소 (1기)\n\n[교통편]\n[승용차 이용시]\n※ 아래 주소 중 하나를 검색해주세요.\n- 지번 주소 : 충북 보은군 산외면 신정리 170-3\n- 도로명 주소 : 충북 보은군 산외면 신정길 77\n\n[대중교통 이용시]\n- 보은시외버스터미널 321,320,310 버스 탑승 신정리 하차 도보로 11분 이동 도착",
+    "usageGuide": "- 인원 추가 시 입실 전 미리 말씀 주셔야 비품/침구 세팅 가능합니다.\n- 객실 내 해산물, 고기, 튀김류 조리는 삼가주시기 바랍니다.\n- 전 객실 실내 금연이며, 촛불, 폭죽, 부탄가스 사용은 금지입니다.(전기그릴 반입 금지)\n- A,B호 독채로 10인까지 이용 가능(동시 예약 필수).\n- 애완견 동반 입실 불가(당일 환불 없이 퇴실 조치).\n- 예약 인원 외 방문객은 출입을 삼가해주세요.\n- 천재지변 및 개인사유로 취소 및 날짜 변경 불가(날짜 변경도 수수료 부과).\n- 이용 규칙 위반으로 발생하는 사고는 민형사적인 책임을 지지 않습니다.\n- 당일 예약/늦은 입실 시 이용 불가할 수 있으니 펜션 측에 문의 후 구매해 주십시오.\n- 현장 인원 추가 시 비품 및 침구 제공이 어려울 수 있습니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n※ 20시 이후 입실 시 사전 문의\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 무료\n(1박기준/현장결제)\n※ 유아(24개월 미만): 무료이나 인원에는 포함\n\n[공용바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 숯불\n- 이용 요금: 2~4인 기준 30,000원 (1박기준/현장결제)\n- 이용 시간: 15:00~20:00\n- 신청 시간: 15:00~18:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n\n[개별바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 숯불\n- 이용 요금: 2~4인 기준 30,000원 (1박기준/현장결제)\n- 이용 시간: 15:00~20:00\n- 신청 시간: 15:00~18:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n\n[공용수영장]\n- 운영 기간:  4월 15일 ~ 10월31일\n- 이용 시간: 입실 후~21:00\n- 이용 요금: 무료\n- 수영장 크기: 3m x 14 m x 80cm\n- 이용 복장: 수영복, 래쉬가드\n※ 수영장 계단 이동시 미끄러움 주의\n※ 다이빙금지 \n※ 음주 후 입수금지\n※ 오전수영은 수질관리 및 청소시간으로 이용불가\n\n[스파]\n[자쿠지]\n※ 10월까지만 운영\n- 이용 객실: 전객실\n- 이용 요금: 무료\n- 크기: 1.6m x 1.2m x 55cm\n- 운영 기간: 2026.3.15 ~\n- 이용 시간: ~21:00\n※ 5월~10월 입실후~22:00\n- 수용 인원: 2~4명\n※ 입욕제 사용 불가\n※ 이용 시 미끄러움 주의\n\n[불멍]\n- 이용 요금: 1회 30,000원 (1박기준/현장결제)\n- 이용 시간: 입실후~22:00\n- 이용 장소: 개별장소\n※ 불멍 이용시 오로라가루 무료제공\n\n[편의 및 주변 시설]\n- 엘레베이터 미보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 와이파이 보유\n- 넷플릭스 이용 가능\n※ 개인 계정 사용 필요\n\n[주차장]\n- 주차장 보유\n- 전기차 충전기 이용 가능\n※ 산외면 면사무소 (1기)\n\n[교통편]\n[승용차 이용시]\n※ 아래 주소 중 하나를 검색해주세요.\n- 지번 주소 : 충북 보은군 산외면 신정리 170-3\n- 도로명 주소 : 충북 보은군 산외면 신정길 77\n\n[대중교통 이용시]\n- 보은시외버스터미널 321,320,310 버스 탑승 신정리 하차 도보로 11분 이동 도착",
     "reservationGuide": "- 인원 추가 시 입실 전 미리 말씀 주셔야 비품/침구 세팅 가능합니다.\n- 객실 내 해산물, 고기, 튀김류 조리는 삼가주시기 바랍니다.\n- 전 객실 실내 금연이며, 촛불, 폭죽, 부탄가스 사용은 금지입니다.(전기그릴 반입 금지)\n- A,B호 독채로 10인까지 이용 가능(동시 예약 필수).\n- 애완견 동반 입실 불가(당일 환불 없이 퇴실 조치).\n- 예약 인원 외 방문객은 출입을 삼가해주세요.\n- 천재지변 및 개인사유로 취소 및 날짜 변경 불가(날짜 변경도 수수료 부과).\n- 이용 규칙 위반으로 발생하는 사고는 민형사적인 책임을 지지 않습니다.\n- 당일 예약/늦은 입실 시 이용 불가할 수 있으니 펜션 측에 문의 후 구매해 주십시오.\n- 현장 인원 추가 시 비품 및 침구 제공이 어려울 수 있습니다.",
     "province": "도/시",
     "city": "시/군/구",
@@ -78,8 +78,24 @@
         "displayOrder": 0,
         "images": [
           {
-            "id": "bc8cee62-c707-4726-acca-b63728ee0ba1",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7cfc50ae-0e03-4bcb-99fb-f4d011343d3f/main/1788146547769-fvvzobocg7.jpg",
+            "id": "01a153b3-cdb4-7343-a05b-5d7da1174558",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7cfc50ae-0e03-4bcb-99fb-f4d011343d3f/main/1792405654405-ko1pf7tixc.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a153b3-cdae-7caf-a99f-2f208ca0d151",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7cfc50ae-0e03-4bcb-99fb-f4d011343d3f/main/1792405654404-f4trx55005.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a153b3-ccde-7ce1-9dc2-1e41acda2df3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7cfc50ae-0e03-4bcb-99fb-f4d011343d3f/main/1792405654402-pe5jqjh2kk.webp",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
@@ -88,7 +104,7 @@
           {
             "id": "4c1fc6f0-67bb-4b4e-a1de-d144af80d601",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7cfc50ae-0e03-4bcb-99fb-f4d011343d3f/main/1788146547779-zderaoaljn.jpg",
-            "sortOrder": 4,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -165,7 +181,7 @@
         "id": "28ebd54a-0cca-4189-8cc4-2a4f9b9fd6fb",
         "name": "스파",
         "description": "",
-        "usageGuide": "[자쿠지]\n- 이용 객실: 전객실\n- 이용 요금: 무료\n- 크기: 1.6m x 1.2m x 55cm\n- 운영 기간: 2026.3.15 ~\n- 이용 시간: ~21:00\n※ 5월~10월 입실후~22:00/ 4월,11월 입실후~21:00\n- 수용 인원: 2~4명\n※ 입욕제 사용 불가\n※ 이용 시 미끄러움 주의",
+        "usageGuide": "[자쿠지]\n※ 10월까지만 운영\n- 이용 객실: 전객실\n- 이용 요금: 무료\n- 크기: 1.6m x 1.2m x 55cm\n- 운영 기간: 2026.3.15 ~\n- 이용 시간: ~21:00\n※ 5월~10월 입실후~22:00\n- 수용 인원: 2~4명\n※ 입욕제 사용 불가\n※ 이용 시 미끄러움 주의",
         "displayOrder": 3,
         "images": [
           {
@@ -336,7 +352,7 @@
           {
             "id": "34ea7ef0-c72d-489f-8849-207a5d843db6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/08/ow5Acq7lg1xD.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -346,7 +362,7 @@
           {
             "id": "557bcfd0-6d56-42bf-b6d7-bd1516015d1b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/08/qOBaYT61Fv8w.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -354,7 +370,7 @@
           {
             "id": "becf3719-c2a2-42d3-8ab2-972356bf00ca",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/08/bI9X5Luaeh6B.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -362,7 +378,7 @@
           {
             "id": "df947499-2f7d-485a-8268-c5ce31dafb05",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/08/OhMLbpZrPFkB.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -370,7 +386,7 @@
           {
             "id": "eb5eb7b9-2975-48a4-b86c-ccb8995f0812",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/08/8ZjXcnPKC6RV.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -378,7 +394,7 @@
           {
             "id": "37b6a9a3-9ca0-45d0-91da-de9577ad6f54",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/08/RDXOEdJguZ20.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -386,7 +402,7 @@
           {
             "id": "dac027c6-2dd8-48a7-a67e-7ebd559a73a2",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/08/2J10cj8ERH3B.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -394,7 +410,7 @@
           {
             "id": "18ad2415-24c2-4faa-9852-3b450a270373",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/08/Ik58vXsY2i14.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -402,7 +418,7 @@
           {
             "id": "1dadf2c5-fdff-4229-af83-fd3b5d2ee1fd",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/08/3p4TSvguqyrC.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -410,7 +426,7 @@
           {
             "id": "744e511e-970f-44c2-80c4-4ae04fa34b6f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/08/wv68lhNB9KPW.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -418,7 +434,7 @@
           {
             "id": "c38140dc-7f39-4900-ac5d-53fc312bcd06",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/08/hKztlir0LGb1.jpg",
-            "sortOrder": 11,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -426,7 +442,7 @@
           {
             "id": "7485edd9-d778-4653-a9e4-6efa72dcda86",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/08/hnSbQt2Bf4wA.jpg",
-            "sortOrder": 12,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1502,7 +1518,8 @@
             "endDate": null,
             "sortOrder": 0,
             "startDate": null,
-            "description": ""
+            "description": "",
+            "videos": [ ]
           }
         ]
       },
@@ -2048,7 +2065,10 @@
           ],
           "nameEn": ""
         }
-      ]
+      ],
+      "footer": {
+        "ruralStayMark": null
+      }
     }
   }
 }
